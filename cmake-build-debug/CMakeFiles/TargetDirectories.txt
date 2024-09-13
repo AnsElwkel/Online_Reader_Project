@@ -1,0 +1,3 @@
+/home/anaselwkel/CLionProjects/Online_Reader_Project/cmake-build-debug/CMakeFiles/Online_Reader_Project.dir
+/home/anaselwkel/CLionProjects/Online_Reader_Project/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/anaselwkel/CLionProjects/Online_Reader_Project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
